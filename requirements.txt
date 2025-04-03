@@ -1,2 +1,2 @@
 ffmpeg-python
-pytube
+yt_dlp
