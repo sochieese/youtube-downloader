@@ -41,7 +41,7 @@ The tool will:
 3. Merge the audio and video into a single file using FFmpeg.
 
 ## Playing the Downloaded Video
-We recommend using [VLC Media Player](https://www.videolan.org/vlc/) to play the downloaded videos. VLC supports a wide range of audio and video codecs, ensuring compatibility with the downloaded files.
+We recommend using [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM) to play the downloaded videos. VLC supports a wide range of audio and video codecs, ensuring compatibility with the downloaded files.
 
 ## Visitors
 
