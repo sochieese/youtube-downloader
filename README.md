@@ -40,6 +40,13 @@ The tool will:
 2. Save the files in a folder named `PARTS` in the same directory as the script.
 3. Merge the audio and video into a single file using FFmpeg.
 
+## Example
+Here’s an example of a video you can download using this tool:
+
+[![Example Video](https://img.youtube.com/vi/PPnZs0Gnf5I/0.jpg)](https://images.scherokee.net/see-through.mp4)
+
+Click the image above to watch the video
+
 ## Playing the Downloaded Video
 We recommend using [VLC Media Player](https://apps.microsoft.com/detail/XPDM1ZW6815MQM) to play the downloaded videos. VLC supports a wide range of audio and video codecs, ensuring compatibility with the downloaded files.
 
